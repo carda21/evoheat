@@ -1,10 +1,10 @@
-Settings for AquaTemp , and Hass implementation	'tab' seperated
-username	user@user.com
-password	123456
-mqttserver	192.168.1.1
-mqttuser	none
-mqttpass	none
+Settings for EvoHeat , and OpenHAB implementation
+username	EMAIL
+password	PASS
+mqttserver	192.1.1.1
+mqttuser	USER
+mqttpass	PASS
 mqttport	1883
-hassname	my_heatpump
-pollintv	20
-
+openhabname	HotWaterMain
+pollintv	60
+devicecode	XXXX

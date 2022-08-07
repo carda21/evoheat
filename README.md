@@ -1,6 +1,6 @@
-# aquatemp
+# EvoHeat EVO270-1
 
-Bash scripts for integration of AquaTemp wifi module to Home Assistant using mqtt autodiscovery
+Bash scripts for integration of EvoHeat EVO270-1 wifi module to MQTT
 
 requirement of mosquitto_pub and mosquitto_sub and jq
 (sudo apt-get install mosquitto-clients jq)
