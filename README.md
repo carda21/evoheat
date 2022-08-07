@@ -21,3 +21,6 @@ uninstall
 
 
 Poll intervall for the app is 20s, so i recommend to not set this to lower value than 20s 
+
+
+![plot](./example.png)
